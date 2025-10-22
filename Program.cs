@@ -33,6 +33,7 @@ namespace prj1
                     Console.WriteLine(" the password you have entered is not valid so please try again");
                 }
             }
+            Console.WriteLine("thank you for using the password checker");
 
             Console.ReadLine();
 
